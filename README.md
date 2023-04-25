@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MSc in Computer Science<br>
+🎓 Master's Degree in Computer Science.<br>
 💻 Certified Full Stack Java Developer from Seed Infotech<br>
 📚 Experienced in Java, Spring, Spring Boot, SQL, JSP, Bootstrap and Angular<br>
 💼 Proficient in both frontend and backend development<br>
