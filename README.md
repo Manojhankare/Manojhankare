@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Master's Degree in Computer Science.<br>
 💻 Passionate Java Developer <br>
-📚 Experienced in Java, Spring, Spring Boot, SQL, JSP, Bootstrap and Angular<br>
+📚 Experienced in Java, Spring, Spring Boot, SQL, JSP, Bootstrap, Angular, Python, Flask, Django<br>
 💼 Proficient in both frontend and backend development<br>
 🌟 Passionate about learning and seeking new challenges.<br>
 
