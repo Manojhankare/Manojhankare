@@ -1,9 +1,10 @@
 # 💫 About Me:
-🎓 Master's Degree in Computer Science.<br>
-💻 Passionate Java Developer <br>
+🎓 Master's Degree in Computer Science<br>
+💻 Passionate Full Stack Developer<br>
 📚 Experienced in Java, Spring, Spring Boot, SQL, JSP, Bootstrap, Angular, Python, Flask, Django<br>
-💼 Proficient in both frontend and backend development<br>
-🌟 Passionate about learning and seeking new challenges.<br>
+💼 Proficient in both frontend and backend development, with a strong focus on backend development using Python Flask and Java Spring Boot<br>
+🌟 Continuously learning and eager to tackle new challenges<br>
+
 
 
 ## 🌐 Socials:
