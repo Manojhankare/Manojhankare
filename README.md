@@ -1,9 +1,11 @@
 # 💫 About Me:
 🎓 Master's Degree in Computer Science<br>
-💻 Passionate Full Stack Developer<br>
-📚 Experienced in Java, Spring, Spring Boot, SQL, JSP, Bootstrap, Angular, Python, Flask, Django<br>
-💼 Proficient in both frontend and backend development, with a strong focus on backend development using Python Flask and Java Spring Boot<br>
-🌟 Continuously learning and eager to tackle new challenges<br>
+💻 Passionate Full Stack Developer with a strong backend focus<br>
+📚 Experienced in  Python, Flask, FastAPI, Django, SQLAlchemy, Java, Spring Boot, SQL, JSP, Angular, React<br>
+🧠 Building intelligent voice agents using AI tools like OpenAI (GPT), Deepgram, and Twilio SIP<br>
+🛠️ Skilled in integrating LiveKit for real-time voice/video, and building scalable backend systems with modular Flask architecture<br>
+📊 Continuously learning, system designing, and working on real-world SaaS and AI projects<br>
+🚀 Always exploring the intersection of AI, cloud, and full-stack development<br>
 
 
 
