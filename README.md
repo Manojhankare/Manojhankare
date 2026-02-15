@@ -8,6 +8,8 @@
 🚀 Always exploring the intersection of AI, cloud, and full-stack development<br>
 
 # 🌐 Socials:
+
+[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://manojhankare.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojhankare/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manojhankare) 
 
 # 💻 Tech Stack
